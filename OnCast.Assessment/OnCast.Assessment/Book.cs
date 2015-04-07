@@ -5,6 +5,9 @@ using System.Text;
 
 namespace OnCast.Assessment
 {
+    /// <summary>
+    /// Book entity class
+    /// </summary
     public class Book
     {
         /// <summary>
