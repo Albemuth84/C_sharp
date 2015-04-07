@@ -1,3 +1,3 @@
-This .dll was developed with .NET Framework 4.5
+Target platform: .NET Framework 4.5
 
-Note: I provided an NUnit test along with the solution.
+Note: I provided an NUnit test (OnCast.Assessment.Test folder) along with the solution (OnCast.Assessment folder).
