@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace OnCast.Assessment
 {
     /// <summary>
-    /// Implementation of the IBookOrderer  interface. Uses the AddOrderingParamenter(Attribute, Direction) method for addim ordering parameters
+    /// BooksOrdered service class, implementation of the IBookOrderer  interface. Uses the AddOrderingParamenter(Attribute, Direction) method for addim ordering parameters
     /// and a call to the Order(List<Book>) method will order the provided list considering such parameters
     /// </summary>
     public class BooksOrderer : IBooksOrderer
