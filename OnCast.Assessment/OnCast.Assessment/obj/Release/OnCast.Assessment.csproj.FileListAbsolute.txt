@@ -1,0 +1,5 @@
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\OnCast.Assessment\OnCast.Assessment\bin\Release\OnCast.Assessment.dll
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\OnCast.Assessment\OnCast.Assessment\bin\Release\OnCast.Assessment.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\OnCast.Assessment\OnCast.Assessment\obj\Release\OnCast.Assessment.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\OnCast.Assessment\OnCast.Assessment\obj\Release\OnCast.Assessment.dll
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\OnCast.Assessment\OnCast.Assessment\obj\Release\OnCast.Assessment.pdb

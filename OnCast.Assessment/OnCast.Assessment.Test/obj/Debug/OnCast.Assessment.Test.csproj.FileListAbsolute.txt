@@ -1,0 +1,9 @@
+c:\users\eduardo\documents\visual studio 2013\Projects\OnCast.Assessment\OnCast.Assessment.Test\obj\Debug\OnCast.Assessment.Test.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2013\Projects\OnCast.Assessment\OnCast.Assessment.Test\bin\Debug\OnCast.Assessment.Test.dll
+c:\users\eduardo\documents\visual studio 2013\Projects\OnCast.Assessment\OnCast.Assessment.Test\bin\Debug\OnCast.Assessment.Test.pdb
+c:\users\eduardo\documents\visual studio 2013\Projects\OnCast.Assessment\OnCast.Assessment.Test\bin\Debug\nunit.framework.dll
+c:\users\eduardo\documents\visual studio 2013\Projects\OnCast.Assessment\OnCast.Assessment.Test\bin\Debug\nunit.framework.xml
+c:\users\eduardo\documents\visual studio 2013\Projects\OnCast.Assessment\OnCast.Assessment.Test\obj\Debug\OnCast.Assessment.Test.dll
+c:\users\eduardo\documents\visual studio 2013\Projects\OnCast.Assessment\OnCast.Assessment.Test\obj\Debug\OnCast.Assessment.Test.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\OnCast.Assessment\OnCast.Assessment.Test\bin\Debug\OnCast.Assessment.dll
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\OnCast.Assessment\OnCast.Assessment.Test\bin\Debug\OnCast.Assessment.pdb

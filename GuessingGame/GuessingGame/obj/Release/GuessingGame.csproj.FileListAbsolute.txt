@@ -1,0 +1,12 @@
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\GuessingGame\GuessingGame\obj\Release\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\GuessingGame\GuessingGame\obj\Release\GuessingGame.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\GuessingGame\GuessingGame\obj\Release\GuessingGame.csproj.GenerateResource.Cache
+C:\Users\Eduardo\documents\visual studio 2013\Projects\GuessingGame\GuessingGame\bin\Release\EddieH.GuessingGame.exe.config
+C:\Users\Eduardo\documents\visual studio 2013\Projects\GuessingGame\GuessingGame\bin\Release\EddieH.GuessingGame.exe.manifest
+C:\Users\Eduardo\documents\visual studio 2013\Projects\GuessingGame\GuessingGame\bin\Release\EddieH.GuessingGame.application
+C:\Users\Eduardo\documents\visual studio 2013\Projects\GuessingGame\GuessingGame\bin\Release\EddieH.GuessingGame.exe
+C:\Users\Eduardo\documents\visual studio 2013\Projects\GuessingGame\GuessingGame\bin\Release\EddieH.GuessingGame.pdb
+C:\Users\Eduardo\documents\visual studio 2013\Projects\GuessingGame\GuessingGame\obj\Release\EddieH.GuessingGame.exe.manifest
+C:\Users\Eduardo\documents\visual studio 2013\Projects\GuessingGame\GuessingGame\obj\Release\EddieH.GuessingGame.application
+C:\Users\Eduardo\documents\visual studio 2013\Projects\GuessingGame\GuessingGame\obj\Release\EddieH.GuessingGame.exe
+C:\Users\Eduardo\documents\visual studio 2013\Projects\GuessingGame\GuessingGame\obj\Release\EddieH.GuessingGame.pdb

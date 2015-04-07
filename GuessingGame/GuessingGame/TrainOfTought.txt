@@ -1,0 +1,53 @@
+﻿/* I tried to achieve the most simple and readable code possible but I'd like to shed some light on how I see the concepts in this problem. I don't really
+ * like to clutter my code with very extensive comments and I have really high hopes that it can be read thoroughly while ignoring this file. 
+ * But this is a test after all so I figured I'd better play safe and let you guys know exactly what I was thinking. This is the same as my Answer class, but 
+ * extensively commented in order to explain my design choices and, obviously, my train of thought. I decided to put it into a different file so that this kind 
+ * of comments, which I don't usually make, won't get in the way of my actual coding style (actually, my "commenting style") while you guys are accessing it.
+ * The comments in the actual code is all me, this is just a step further I decided to take :) */ 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+/* I used the same namespace for everything. I don't usually go for this kind of choice, but my solution is simple enough to keep it that way.
+ * I didn't add any regions to the code due to this very same reason */
+namespace GuessingGame
+{
+    /* Answer is basically Yes or No. Technically not an answer at all until the player replies to the question, 
+     * but while defining whether this class should be called "Question" or "Answer", Answer got the edge due to how it is used later. */
+    public class Answer
+    {
+        /* I also refer to the Answer class as an "answer container" later on as it holds both the question and that question's related guess */
+        public Answer(string question, string guess)
+        {
+            this.Guess = guess;
+            this.Question = question;
+        }
+
+        /* Ladies and gentlemen, I give you the answer itself, which obviously can't be set with no player input */
+        public bool IsYes { get; set; } 
+
+        /* Guess is what the program will ask depending on the sequence of yeses and noes given by the player. (ie:"shark") 
+         * Basically, "what is the player thinking?". BTW "answer" and "guess" are completely different beasts! */
+        public string Guess { get; private set; }
+
+        //Question is, well, the question itself. Every answer has a question, after all, but not the other way around! (ie: "lives in water")
+        public string Question { get; private set; }
+
+        /* A new answer (or "answer container") is bound to the current answer if the guess is wrong. Whether it will be a new "AnswerYes" or a new "AnswerNo" 
+         * will depend on what the player's last answer was (again, the concept of "answer" and "guess" two are distinct things). */
+        public Answer AnswerYes { get; set; }
+        public Answer AnswerNo { get; set; }
+
+		/* I like to keep properties such as these rather than making this kind of check straight on usage. It keeps things neat and clean :) */
+        public bool IsLastYes
+        {
+            get { return this.AnswerYes == null; }
+        }
+        public bool IsLastNo
+        {
+            get { return this.AnswerNo == null; }
+        }
+    }
+}
