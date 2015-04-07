@@ -5,6 +5,9 @@ using System.Text;
 
 namespace OnCast.Assessment
 {
+    /// <summary>
+    /// OrderingException exception class
+    /// </summary
     public class OrderingException : Exception
     {
         public OrderingException()
